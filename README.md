@@ -1,4 +1,4 @@
-# Homework 3: User Engagement Tracking with MongoDB
+# HW 3: User Engagement Tracking with MongoDB
 
 This homework extends the normalized MySQL schema from Homework 1 with a MongoDB document model for user engagement history.
 
